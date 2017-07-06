@@ -1,0 +1,7 @@
+Making Classifier dividing amino acid toxic or non-toxin proteins.
+Using NVidia CUDA library and GTX 1080 based on Linux Ubuntu 16.04.
+Variable Deep Learning Model was used as switching optimizer, hidden layer, cost function etc.
+We were training three classifier each datasets.
+We develped standard model that consist of cross-entropy function, sigmoid, 3 number of hidden layer, non-initializer.
+
+
